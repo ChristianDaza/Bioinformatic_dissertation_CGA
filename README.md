@@ -21,7 +21,7 @@ The 10_validation.R script identified the GABRIEL consortium's SNPs positioned i
 The 9_eQTL_script.R script was used to perform and visualise eQTL analysis for genes with significant SNPs; GPR18 RORA and LT4H, as well as DPEP1 (sits in the significance level) based on eQTL data from GTEx portal V8.  
 
 
-## Other Scripts 
+## Other scripts 
 Other scripts used for this project that are not in this repository include; subsetting the UKBiobank column for desire variables, candidate gene analysis PLIN1.9 and matching SNPs of the GABRIEL consortium data set to their corresponding position to the hg19 reference genome.
 
 ## Acknowledgements

@@ -32,10 +32,10 @@ This project would have not been possible without the help and advice of my supe
 1. Robbins, S., Cotran, R., Kumar, V. and Collins, T., 1999. Pathologic basis of disease. 6th ed. Philadelphia [etc.]: W. B. Saunders.
 2. Medzhitov, R., 2010. Inflammation 2010: New Adventures of an Old Flame. Cell, 140(6), pp.771-776.
 3. Serhan, C., 2014. Pro-resolving lipid mediators are leads for resolution physiology. Nature, 510(7503), pp.92-101.
-4. 11.	Fullerton, J. and Gilroy, D., 2016. Resolution of inflammation: a new therapeutic frontier. Nature Reviews Drug Discovery, 15(8), pp.551-567.
+4. Fullerton, J. and Gilroy, D., 2016. Resolution of inflammation: a new therapeutic frontier. Nature Reviews Drug Discovery, 15(8), pp.551-567.
 5. Chiang, N. and Serhan, C., 2020. Specialized pro-resolving mediator network: an update on production and actions. Essays in Biochemistry, 64(3), pp.443-462.
 6.	Díaz del Campo, L., Rodrigues-Díez, R., Salaices, M., Briones, A. and García-Redondo, A., 2022. Specialized Pro-Resolving Lipid Mediators: New Therapeutic Approaches for Vascular Remodeling. International Journal of Molecular Sciences, 23(7), p.3592.
-7.	29.	Pulleyn, L., Newton, R., Adcock, I. and Barnes, P., 2001. TGFβ1 allele association with asthma severity. Human Genetics, 109(6), pp.623-627.
-8.	45.	Vicente, C., Revez, J. and Ferreira, M., 2017. Lessons from ten years of genome-wide association studies of asthma. Clinical &amp; Translational Immunology, 6(12), p.e165.
+7. Pulleyn, L., Newton, R., Adcock, I. and Barnes, P., 2001. TGFβ1 allele association with asthma severity. Human Genetics, 109(6), pp.623-627.
+8. Vicente, C., Revez, J. and Ferreira, M., 2017. Lessons from ten years of genome-wide association studies of asthma. Clinical &amp; Translational Immunology, 6(12), p.e165.
 9.	Levy, B., Kohli, P., Gotlinger, K., Haworth, O., Hong, S., Kazani, S., Israel, E., Haley, K. and Serhan, C., 2006. Protectin D1 Is Generated in Asthma and Dampens Airway Inflammation and Hyperresponsiveness. The Journal of Immunology, 178(1), pp.496-50.
 10.	Planagumà, A., Kazani, S., Marigowda, G., Haworth, O., Mariani, T., Israel, E., Bleecker, E., Curran-Everett, D., Erzurum, S., Calhoun, W., Castro, M., Chung, K., Gaston, B., Jarjour, N., Busse, W., Wenzel, S. and Levy, B., 2008. Airway Lipoxin A4Generation and Lipoxin A4 Receptor Expression Are Decreased in Severe Asthma. American Journal of Respiratory and Critical Care Medicine, 178(6), pp.574-582.
